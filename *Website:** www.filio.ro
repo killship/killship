@@ -1,0 +1,28 @@
+*Website:** www.filio.ro
+
+**Price:** $150
+
+**Problems Identified:**
+1. **Functionality Issues:**
+   - Inconsistent behavior across different browsers (Chrome, Firefox, Safari).
+   - Broken links leading to 404 errors.
+
+2. **Performance Concerns:**
+   - Loading speed exceeds 3 seconds on average.
+   - Large image files causing slow rendering times.
+
+3. **Design Inconsistencies:**
+   - Misalignment of elements on mobile view.
+   - Font sizes not consistent across pages.
+
+4. **User Experience:**
+   - Complicated navigation structure leading to user confusion.
+   - Lack of clear call-to-action buttons.
+
+**Feedback for Optimization:**
+- Optimize images for faster loading.
+- Implement caching strategies to improve speed.
+- Review and simplify navigation for better user flow.
+- Ensure consistent design elements across all pages.
+
+**Contact:** Please reach out exclusively on Upwork for further discussions.
